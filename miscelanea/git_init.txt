@@ -1,0 +1,27 @@
+#####
+# Iniciar un repo desde tu compu y sincronizarlo con GithUB
+#####
+#
+git init
+#
+git status
+#
+git add *
+#
+git commit -m "algo"
+# 
+< comandos en GitHub …or push an existing repository from the command line >
+
+#####
+# Si ya existe el repo y sólo se quiere actualizar
+#####
+#
+git pull
+# 
+git status
+#
+git add *
+#
+git commit -m "algo"
+#
+git push
